@@ -1,0 +1,18 @@
+/* styles.css */
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.header {
+  background-color: #f2f2f2;
+  padding: 12px 20px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+.cell {
+  padding: 12px 20px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
